@@ -3,11 +3,18 @@ This project's goal is to Investigate a data set. Share and communicate my findi
 
 ## Table of Contents
 <ul>
+<li><a href="#installation">Installation</a></li>
 <li><a href="#intro">Introduction</a></li>
 <li><a href="#wrangling">Data Wrangling</a></li>
 <li><a href="#eda">Exploratory Data Analysis</a></li>
 <li><a href="#conclusions">Conclusions</a></li>
 </ul>
+
+<a id='installation'></a>
+## Installation
+To have this project running, install Jupyter Notebook with python 3 on your local machine.
+Clone the project
+Run the project from your Jupiter Notebook
 
 <a id='intro'></a>
 ## Introduction
